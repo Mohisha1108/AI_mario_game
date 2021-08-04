@@ -1,0 +1,52 @@
+.heading
+{
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    border:1px solid white;
+    float: right;
+}
+.big_image
+{
+    width: 100%;
+
+}
+#start,#status 
+{
+    font-size: 22px;
+}
+#copyrightfooter
+{
+    background-color: gray;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    text-align: center;
+    color: white;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+}
+#a{
+    border: 5px solid white;
+    border-radius: 100px;
+    padding: 5px;
+    text-decoration: underline;
+}
+.instuction_img{
+    width: 49%;
+    display: inline-block;
+}
+.modal-dialog{
+    width: 90%;
+}
+video { 
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
